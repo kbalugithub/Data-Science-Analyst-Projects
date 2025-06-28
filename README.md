@@ -5,7 +5,9 @@ I’m a final-year B.Tech Computer Science student at GITAM University, passiona
 Projects:-
 
 1. Credit Card Fraud Detection:
+
 Description: Developed a machine learning model to identify fraudulent credit card transactions with high precision.
+
 Technologies: Python, Pandas, Scikit-learn, SMOTE, PCA, Deep Learning (Autoencoders).
 
 Highlights-
@@ -18,8 +20,10 @@ Impact: Enhanced transaction security by minimizing false positives and detectin
 Link: https://anaconda.com/app/share/notebooks/b1841167-1f0d-4889-8c84-102742f74627/overview
 
 2. Amazon Sales Dashboard:
+
 Description: Built an interactive dashboard to visualize and analyze Amazon sales data for business insights.
-Technologies: Tableau, Python, Pandas, Matplotlib.
+
+Technologies: Tableau
 
 Highlights-
 * Designed visualizations for sales trends, product categories, and customer behavior.
@@ -31,7 +35,9 @@ Impact: Streamlined decision-making for stakeholders with intuitive, data-driven
 Link: https://public.tableau.com/app/profile/kinthada.baladithya/viz/AmazonDashboard_17462721885910/Dashboard1
 
 3. Online Learning Engagement Trends Analysis (NIELIT Summer Internship):
+
 Description: Analyzed user engagement on online learning platforms to improve course design and retention.
+
 Technologies: Python, Pandas, Matplotlib, Scikit-learn, K-Means Clustering.
 
 Highlights-
