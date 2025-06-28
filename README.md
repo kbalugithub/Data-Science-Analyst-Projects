@@ -35,9 +35,9 @@ Description: Analyzed user engagement on online learning platforms to improve co
 Technologies: Python, Pandas, Matplotlib, Scikit-learn, K-Means Clustering.
 
 Highlights-
-Conducted EDA to uncover engagement patterns and bottlenecks.
-Applied K-Means clustering to segment users by interaction levels.
-Visualized trends to recommend platform enhancements.
+* Conducted EDA to uncover engagement patterns and bottlenecks.
+* Applied K-Means clustering to segment users by interaction levels.
+* Visualized trends to recommend platform enhancements.
 
 Impact: Informed strategies to boost student retention and course completion rates.
 
