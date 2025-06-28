@@ -24,6 +24,7 @@ Enabled dynamic KPI tracking with real-time data integration.
 Provided actionable insights for inventory and marketing strategies.
 
 Impact: Streamlined decision-making for stakeholders with intuitive, data-driven dashboards.
+Link: https://public.tableau.com/app/profile/kinthada.baladithya/viz/AmazonDashboard_17462721885910/Dashboard1
 
 3. Online Learning Engagement Trends Analysis (NIELIT Summer Internship):
 Description: Analyzed user engagement on online learning platforms to improve course design and retention.
